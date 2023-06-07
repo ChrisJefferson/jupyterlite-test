@@ -45,4 +45,5 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 
-drawsvg>=2
+drawsvg>=2,<3
+hyperbolic>=1,<2
